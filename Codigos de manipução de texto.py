@@ -16,5 +16,5 @@ print(frase.find("Curso"))#Procurar a palavra "Curso" na frase
 print(frase.lower().find("Curso"))#Colocando a frase em minusculo + Procurar a palavra "Curso" na frase
 dividido = frase.split()#Criando a variavel "dividido" e dizendo parar dividir a frase aonde possui espaços
 print(dividido[0])#Pegando a primeira divisao (0)  da frase e mostrando na tela
-print(dividido[0][3])##Pega ndo da primeira divisao (0) e mostrando na tela a 3° letra
+print(dividido[0][3])##Pegando da primeira divisao (0) e mostrando na tela a 3° letra
 #Dentro de alguns codigos você consegue colocar no começo a letra "l" ou "r" para começar a ler da esquerda ou da direita
