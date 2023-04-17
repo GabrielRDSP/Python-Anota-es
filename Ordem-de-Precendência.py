@@ -3,7 +3,7 @@
 #- ⇀ Subtração
 #* ⇀ Multiplicação
 #/ ⇀ Divisão
-#** ⇀ Potência
+#** ⇀ Exponenciação
 #// ⇀ Divisão Inteira
 #% ⇀ Resto da divisão
 #= ⇀ Recebe-se

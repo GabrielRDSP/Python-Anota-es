@@ -1,2 +1,3 @@
-#if = se
-#else = caso contrario
+#if: = se
+#else: = caso contrario
+#elif: = caso se
